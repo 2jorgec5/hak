@@ -1,11 +1,11 @@
 {
-  "teamCode": "TEAM-000",
-  "teamName": "Nombre de la cuadrilla",
-  "deployUrl": "https://",
+  "teamCode": "TEAM-065",
+  "teamName": "Cuadrilla UTEC 007",
+  "deployUrl": "https://hak-xeje-jet.vercel.app",
   "storageProvider": "SUPABASE | CLOUDINARY",
   "integrantes": [
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" },
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" },
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" }
+    { "nombre": "Jorge Cuevas", "codigo": "202510326" },
+    { "nombre": "Jorge Cuevas", "codigo": "202510326" },
+    { "nombre": "Jorge Cuevas", "codigo": "202510326" }
   ]
 }
